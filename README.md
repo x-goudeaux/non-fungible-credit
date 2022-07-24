@@ -7,3 +7,7 @@ The progress of surmising requirements, desigining the software architecture, pr
 
 Powerpoint Presentation
 [Haas, Goeke, Goudeaux, Sigmund.pptx](https://github.com/x-goudeaux/non-fungible-credit/files/9080074/Haas.Goeke.Goudeaux.Sigmund.pptx)
+
+
+https://user-images.githubusercontent.com/87832803/180669511-06dbc822-b274-454e-8c87-010e13bbdb9a.mp4
+
